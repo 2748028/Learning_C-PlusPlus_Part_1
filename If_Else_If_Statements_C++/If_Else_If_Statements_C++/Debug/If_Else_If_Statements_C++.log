@@ -1,0 +1,14 @@
+﻿Build started 10/19/2015 11:53:41 AM.
+     1>Project "C:\Users\100589745\Documents\Visual Studio 2013\Projects\If_Else_If_Statements_C++\If_Else_If_Statements_C++\If_Else_If_Statements_C++.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\100589745\documents\visual studio 2013\projects\if_else_if_statements_c++\if_else_if_statements_c++\source.cpp(37): error C2371: 'value' : redefinition; different basic types
+                 c:\users\100589745\documents\visual studio 2013\projects\if_else_if_statements_c++\if_else_if_statements_c++\source.cpp(15) : see declaration of 'value'
+     1>c:\users\100589745\documents\visual studio 2013\projects\if_else_if_statements_c++\if_else_if_statements_c++\source.cpp(37): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\100589745\documents\visual studio 2013\projects\if_else_if_statements_c++\if_else_if_statements_c++\source.cpp(39): error C2088: '<<' : illegal for class
+     1>Done Building Project "C:\Users\100589745\Documents\Visual Studio 2013\Projects\If_Else_If_Statements_C++\If_Else_If_Statements_C++\If_Else_If_Statements_C++.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.36

@@ -1,0 +1,16 @@
+﻿Build started 11/10/2015 11:52:22 AM.
+     1>Project "C:\Users\100589745\Documents\Visual Studio 2013\Projects\#1\Separate_Compilation_C++\Separate_Compilation_C++\Separate_Compilation_C++.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp Source1.cpp
+         Source1.cpp
+     1>c:\users\100589745\documents\visual studio 2013\projects\#1\separate_compilation_c++\separate_compilation_c++\source1.cpp(11): error C2512: 'std::basic_istream<char,std::char_traits<char>>' : no appropriate default constructor available
+     1>c:\users\100589745\documents\visual studio 2013\projects\#1\separate_compilation_c++\separate_compilation_c++\source1.cpp(12): error C2039: 'open' : is not a member of 'std::basic_istream<char,std::char_traits<char>>'
+     1>c:\users\100589745\documents\visual studio 2013\projects\#1\separate_compilation_c++\separate_compilation_c++\source1.cpp(14): error C2039: 'close' : is not a member of 'std::basic_istream<char,std::char_traits<char>>'
+         Source.cpp
+     1>c:\users\100589745\documents\visual studio 2013\projects\#1\separate_compilation_c++\separate_compilation_c++\source.cpp(25): fatal error C1070: mismatched #if/#endif pair in file 'c:\users\100589745\documents\visual studio 2013\projects\#1\separate_compilation_c++\separate_compilation_c++\source.cpp'
+         Generating Code...
+     1>Done Building Project "C:\Users\100589745\Documents\Visual Studio 2013\Projects\#1\Separate_Compilation_C++\Separate_Compilation_C++\Separate_Compilation_C++.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.60

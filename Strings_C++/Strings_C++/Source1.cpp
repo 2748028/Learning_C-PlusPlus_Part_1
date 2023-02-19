@@ -1,0 +1,21 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+	string text_1 = "I am a computer!";
+	string text_2 = "How are you doing?";
+
+	string text_3 = "I am a computer and do not possess the capability to express emotion.";
+
+	cout << text_1 << text_2 << flush;
+
+	cout << text_3 << endl;
+	
+	return 0;
+
+
+
+
+}

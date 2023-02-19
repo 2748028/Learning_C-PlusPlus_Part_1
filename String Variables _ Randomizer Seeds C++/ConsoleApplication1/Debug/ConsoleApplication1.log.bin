@@ -1,0 +1,19 @@
+﻿Build started 10/19/2015 12:15:31 PM.
+     1>Project "C:\Users\100589745\Documents\Visual Studio 2013\Projects\String Variables & Randomizer Seeds C++\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\100589745\documents\visual studio 2013\projects\string variables & randomizer seeds c++\consoleapplication1\source.cpp(19): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\100589745\documents\visual studio 2013\projects\string variables & randomizer seeds c++\consoleapplication1\source.cpp(20): error C2065: 'i' : undeclared identifier
+     1>c:\users\100589745\documents\visual studio 2013\projects\string variables & randomizer seeds c++\consoleapplication1\source.cpp(20): error C2059: syntax error : ')'
+     1>c:\users\100589745\documents\visual studio 2013\projects\string variables & randomizer seeds c++\consoleapplication1\source.cpp(21): error C2143: syntax error : missing ';' before 'for'
+     1>c:\users\100589745\documents\visual studio 2013\projects\string variables & randomizer seeds c++\consoleapplication1\source.cpp(22): error C2146: syntax error : missing ';' before identifier 'rand'
+     1>c:\users\100589745\documents\visual studio 2013\projects\string variables & randomizer seeds c++\consoleapplication1\source.cpp(22): error C2059: syntax error : ')'
+     1>c:\users\100589745\documents\visual studio 2013\projects\string variables & randomizer seeds c++\consoleapplication1\source.cpp(22): error C2563: mismatch in formal parameter list
+     1>c:\users\100589745\documents\visual studio 2013\projects\string variables & randomizer seeds c++\consoleapplication1\source.cpp(22): error C2568: '<<' : unable to resolve function overload
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\ostream(997): could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+     1>Done Building Project "C:\Users\100589745\Documents\Visual Studio 2013\Projects\String Variables & Randomizer Seeds C++\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.46

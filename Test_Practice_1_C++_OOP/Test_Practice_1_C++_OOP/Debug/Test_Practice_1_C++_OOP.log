@@ -1,0 +1,18 @@
+﻿Build started 1/30/2016 4:39:47 PM.
+     1>Project "C:\Users\100589745\Documents\Visual Studio 2013\Projects\#1\#2\Test_Practice_1_C++_OOP\Test_Practice_1_C++_OOP\Test_Practice_1_C++_OOP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Function.cpp Function1.cpp Source.cpp
+         Source.cpp
+         Function1.cpp
+     1>c:\users\100589745\documents\visual studio 2013\projects\#1\#2\test_practice_1_c++_oop\test_practice_1_c++_oop\header1.h(10): error C2061: syntax error : identifier 'Birthday'
+     1>c:\users\100589745\documents\visual studio 2013\projects\#1\#2\test_practice_1_c++_oop\test_practice_1_c++_oop\header1.h(16): error C2146: syntax error : missing ';' before identifier 'birthdate'
+     1>c:\users\100589745\documents\visual studio 2013\projects\#1\#2\test_practice_1_c++_oop\test_practice_1_c++_oop\header1.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\100589745\documents\visual studio 2013\projects\#1\#2\test_practice_1_c++_oop\test_practice_1_c++_oop\function1.cpp(8): error C2511: 'People::People(std::string,Birthday &)' : overloaded member function not found in 'People'
+                 c:\users\100589745\documents\visual studio 2013\projects\#1\#2\test_practice_1_c++_oop\test_practice_1_c++_oop\header1.h(8) : see declaration of 'People'
+         Function.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\100589745\Documents\Visual Studio 2013\Projects\#1\#2\Test_Practice_1_C++_OOP\Test_Practice_1_C++_OOP\Test_Practice_1_C++_OOP.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.02

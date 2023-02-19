@@ -1,0 +1,18 @@
+﻿Build started 1/30/2016 8:43:45 PM.
+     1>Project "C:\Users\100589745\Documents\Visual Studio 2013\Projects\#1\#2\Composition_C++_OOP\Composition_C++_OOP\Composition_C++_OOP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp People.cpp
+         Main.cpp
+     1>c:\users\100589745\documents\visual studio 2013\projects\#1\#2\composition_c++_oop\composition_c++_oop\main.cpp(10): error C2371: 'object2' : redefinition; different basic types
+                 c:\users\100589745\documents\visual studio 2013\projects\#1\#2\composition_c++_oop\composition_c++_oop\main.cpp(8) : see declaration of 'object2'
+     1>c:\users\100589745\documents\visual studio 2013\projects\#1\#2\composition_c++_oop\composition_c++_oop\main.cpp(12): error C2039: 'printInfo' : is not a member of 'Birthday2'
+                 c:\users\100589745\documents\visual studio 2013\projects\#1\#2\composition_c++_oop\composition_c++_oop\birthday.h(19) : see declaration of 'Birthday2'
+         Generating Code...
+         Compiling...
+         People.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\100589745\Documents\Visual Studio 2013\Projects\#1\#2\Composition_C++_OOP\Composition_C++_OOP\Composition_C++_OOP.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.08

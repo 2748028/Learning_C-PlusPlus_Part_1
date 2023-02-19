@@ -1,0 +1,12 @@
+﻿Build started 10/19/2015 12:17:54 PM.
+     1>Project "C:\Users\100589745\Documents\Visual Studio 2013\Projects\Strings_C++\Strings_C++\Strings_C++.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\100589745\Documents\Visual Studio 2013\Projects\Strings_C++\Debug\Strings_C++.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\100589745\Documents\Visual Studio 2013\Projects\Strings_C++\Debug\Strings_C++.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\100589745\Documents\Visual Studio 2013\Projects\Strings_C++\Debug\Strings_C++.lib" /MACHINE:X86 Debug\Source.obj
+         Debug\Source1.obj
+     1>Source1.obj : error LNK2005: _main already defined in Source.obj
+     1>C:\Users\100589745\Documents\Visual Studio 2013\Projects\Strings_C++\Debug\Strings_C++.exe : fatal error LNK1169: one or more multiply defined symbols found
+     1>Done Building Project "C:\Users\100589745\Documents\Visual Studio 2013\Projects\Strings_C++\Strings_C++\Strings_C++.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.30
